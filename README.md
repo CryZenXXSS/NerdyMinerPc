@@ -64,6 +64,6 @@ Projeto basedo nos scripts:
 
 ----------------------------------------------------------------------------------------------------------------
 
-QUEM QUISER ME AJUDAR PAGAR A FACULDADE: 121ZFQcP5XhzGnxmKuJR2HEewKJ5oUmsEh
+QUEM QUISER ME AJUDAR PAGAR A FACULDADE: bc1qtwys9m434aywxjasflmkp4uz2pe86raqlyrqd7
 
 ----------------------------------------------------------------------------------------------------------------
